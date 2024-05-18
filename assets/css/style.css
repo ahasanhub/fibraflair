@@ -659,7 +659,7 @@ p.arrival-review span {margin-right: 15px;}
     background-position: center;
     background-size: cover;
 }
-.sofa-collection.collectionbg1{background: url(../images/collection/sofa-collection-banner.jpg)no-repeat;}
+.sofa-collection.collectionbg1{background: url(../images/collection/aboutus.png)no-repeat;}
 .sofa-collection.collectionbg2{background: url(../images/collection/table-banner.jpg)no-repeat;}
 
 .sofa-collection:before,.sofa-collection:after {
@@ -679,7 +679,7 @@ p.arrival-review span {margin-right: 15px;}
 }
 .sofa-collection-txt {
     position: relative;
-    max-width: 596px;
+    max-width: 350px;
     z-index: 1;
 }
 .sofa-collection-txt h2 {
